@@ -5,7 +5,7 @@ date:   2018-10-03 10:45:36 +0200
 categories: jekyll update
 ---
 
-This is the firtst post. Cool.
+This is the firtst post. Cool. This could be something.
 
 Check out my [GitHub][chris-gh]. I also have a cool [instagram account][chris-ig].
 
