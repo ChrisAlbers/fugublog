@@ -17,14 +17,14 @@ title: Fugu
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is gonna be my blog. I dont't know what it's gonna be about, but don't worry. We'll get there.
-baseurl: "fugublog" # the subpath of your site, e.g. /blog
+baseurl: "/fugublog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: albers91
 github_username:  ChrisAlbers
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
